@@ -21,9 +21,6 @@ This repository organizes all my defensive security labs, detection engineering 
 - **Tech/Tools:** AWS IAM, AWS S3, Boto3
 
 
-### 4. [Windows Threat Detection & IR Lab](https://github.com/GaryCollinsAI-Sec/Windows-Threat-Detection-IR-Lab)
-- **Description:** Deployed a hardened logging environment to detect and investigate simulated Windows attacks.
-- **Tech/Tools:** Windows Event Logs, Wazuh, Splunk
 
 
 
